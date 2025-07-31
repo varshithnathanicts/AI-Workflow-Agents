@@ -1,0 +1,82 @@
+
+AI Agents and Workflows
+=======================
+
+AI Workflow 	: It is a strectured seq of steps that uses AI to automate tasks.
+	Ex: Leave Approval System (It will vaildates and give the recommendation for the leave approval)
+
+AI Agents	: Ai agent is more automatic and dynamic - improves over time.
+	Ex: chatGpt, Gemini AI
+
+-----------------------------------------------------------------------------------------------------------
+
+We can insert the API to access the AI agents (gpt,gemini, etc.. )
+
+Proprietry vs Open LLMs (LLM -> Large Language Models)
+=======================
+
+	Proprietry:
+		Paid LLMs provided by OpenAI, Google etc via their APIs
+		You pay for the usage (can't run them locally)
+		Less/No data privacy
+
+	Open LLM: 
+		Open-weight llms provided by Google, meta & others
+		we run them locally using Ollama 
+		100% privacy
+
+
+-----------------------------------------------------------------------------------------------------------
+
+Creating new Python project using UV
+
+uv init # need to install the uv first then only it will execute
+
+File Strecture
+==============
+	.gitignore
+	.python-version
+	main.py
+	pyproject.toml
+	README.md
+
+
+main.py
+=======
+
+def main():
+	print("Hello from essentials!")
+if __name__ == "__main__":
+	main()
+
+
+
+WorkFlow first Example
+======================
+
+main.py
+=======
+
+def main():
+	# user input => AI(LLM) to generate X post => output post
+	
+	usr_input = input(What should the post be about?")
+
+
+if __name__ == "__main__":
+	main()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
