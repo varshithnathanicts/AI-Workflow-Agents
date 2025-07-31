@@ -7,9 +7,9 @@ This repository contains resources related to AI agent workflows, including docu
 
 ## 📘 Contents
 
-- `AI Agents and Workflows.txt`: Notes on agent structures and workflow logic
-- `AI workflow & agents-1.pdf`: Detailed documentation on agent-based systems
-- `AI workflow & agents-2.pdf`: Supplementary insights into agent interactions
+- `AI Agents and Workflows.txt`
+- `AI workflow & agents-1.pdf`
+- `AI workflow & agents-2.pdf`
 - `Final Understanding and Outcome of Course.png`: Visual course summary
 
 ## 🎯 Purpose
