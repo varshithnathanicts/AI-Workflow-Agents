@@ -40,4 +40,3 @@ Reach out via GitHub for questions or ideas.
 > _“Agents are not just programs—they’re collaborators in intelligent workflows.”_
 ```
 
-You can paste this into your `README.md` file in the GitHub UI or upload it using Git. Want to add cool badges, a license, or turn this into a full-blown project template? Just say the word!
